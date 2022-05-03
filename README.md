@@ -1,4 +1,4 @@
-# prime-number-calculator
+# x86-prime-number-calculator
 
 > calculate prime numbers in assembly.
 ## Description
